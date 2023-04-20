@@ -1,2 +1,2 @@
-ze calculator
-made with tkinter and vs code
+Basic calculator
+Built using Python and Tkinter on VS Code
